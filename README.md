@@ -40,5 +40,6 @@ Install the required libraries:
 pip install -r requirements.txt
 ```
 
-Then open `Rock_vs_Mine_Prediction.ipynb` and run the notebook.
+- Vs code: https://code.visualstudio.com/
+- Git: https://git-scm.com/
 
